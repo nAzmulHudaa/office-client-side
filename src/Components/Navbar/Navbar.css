@@ -1,0 +1,39 @@
+.nav-link{
+    margin-right: 15px;
+    padding: 10px;
+    color: white;
+    font-weight: 900;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.navbar-toggler-icon{
+    color: black;
+}
+.icon{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    color: white;
+}
+.navbar{
+    padding: 0px;
+    margin: 0px;
+}
+.telegram{
+    width: 45px;
+}
+.nav-btn{
+    border: 1px solid #894DF0;
+    position: relative;
+    background-color: #894DF0;
+    padding: 7px 20px;
+    border-radius: 30px;
+    color: white;
+}

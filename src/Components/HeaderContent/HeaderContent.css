@@ -1,0 +1,32 @@
+.headerContent{
+    margin-top: 70px;
+}
+.header-icon{
+    width: 80px;
+}
+.headerContent h1{
+    font-size: 60px;
+    font-weight: 600;
+    line-height: normal;
+}
+.headerContent p{
+    font-size: 22px;
+    font-weight: 500;
+    margin: 30px 0px;
+}
+
+.headerBtn{
+    background-color: #894DF0;
+    padding: 10px 25px;
+    border: 1px solid #894DF0;
+    border-radius: 30px;
+    color: white;
+    font-weight:500;
+    margin: 18px 0px;
+    font-size: 18px;
+}
+.header-icon{
+    width: 50px;
+    height: 47px;
+    margin: 0px 30px;
+}
